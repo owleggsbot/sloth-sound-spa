@@ -1,0 +1,12 @@
+{
+  "name": "Sloth Sound Spa",
+  "short_name": "Sound Spa",
+  "description": "Offline-first sloth hammock sound mixer with a gentle sleep timer.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#070a0f",
+  "theme_color": "#070a0f",
+  "icons": [
+    {"src": "assets/sloth.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
